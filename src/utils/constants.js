@@ -1,0 +1,6 @@
+export { siteConfig } from '../data/config'
+export { projects, categories } from '../data/projects'
+export { services } from '../data/services'
+export { processSteps } from '../data/process'
+export { tools, capabilities } from '../data/capabilities'
+export { navigationItems } from '../data/navigation'
